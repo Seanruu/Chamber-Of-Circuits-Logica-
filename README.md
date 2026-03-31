@@ -19,7 +19,7 @@
 
 ## 🗡️ About the Game
 
-**LogicA: Chamber of Circuits** is a **3D logic gate puzzle dungeon game** designed as an interactive learning tool that teaches fundamental logic concepts through engaging gameplay. Players explore a dungeon environment where they solve puzzles using logic gates **AND**, **OR**, **NOT**, **NAND**, **XOR**, and beyond encouraging **critical thinking** and **problem-solving skills**.
+**LogicA: Chamber of Circuits** is a **3D logic gate puzzle dungeon game** designed as an interactive learning tool that teaches fundamental logic concepts through engaging gameplay. Players explore a dungeon environment where they solve puzzles using logic gates **AND**, **OR**, **NOT**, **NAND**, **NOR**, and beyond encouraging **critical thinking** and **problem-solving skills**.
 
 By integrating education with immersive experiences, the game enhances users' understanding and retention of logical principles. It provides an alternative approach to traditional learning by promoting **active participation**, **creativity**, and **motivation**.
 
