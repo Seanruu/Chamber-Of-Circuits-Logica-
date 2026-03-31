@@ -1,31 +1,42 @@
-<div align="center">
-  <img height="200" src="https://cdn1.epicgames.com/ue/product/Screenshot/ModularDungeon_screenshot_01-1920x1080-56d067599e53b033731b0a9cf56cd4b5.jpg?resize=1&w=1920"  />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/⚔️_LogicA-Chamber_of_Circuits-8B0000?style=for-the-badge&labelColor=1a1a2e" alt="LogicA Banner"/>
+</p>
 
-###
+<h1 align="center">🏰 LogicA: Chamber of Circuits ⚡</h1>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=60&section=header&reversal=false&text=LogicA&fontSize=40&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
-</div>
+<p align="center">
+  <em>Descend into the depths. Solve the circuits. Escape the dungeon.</em>
+</p>
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/Engine-Unity-100000?style=flat-square&logo=unity&logoColor=white&labelColor=1a1a2e&color=4a0e0e" />
+  <img src="https://img.shields.io/badge/Language-C%23-100000?style=flat-square&logo=csharp&logoColor=white&labelColor=1a1a2e&color=4a0e0e" />
+  <img src="https://img.shields.io/badge/Genre-Logic%20Puzzle-100000?style=flat-square&labelColor=1a1a2e&color=4a0e0e" />
+  <img src="https://img.shields.io/badge/Status-In%20Development-100000?style=flat-square&labelColor=1a1a2e&color=4a0e0e" />
+</p>
 
-<h1 align="left">LogicA: Chamber Of Circuits</h1>
+---
 
-###
+## 🗡️ About the Game
 
-<h2 align="left">About The Project</h2>
+**LogicA: Chamber of Circuits** is a **3D logic gate puzzle dungeon game** designed as an interactive learning tool that teaches fundamental logic concepts through engaging gameplay. Players explore a dungeon environment where they solve puzzles using logic gates **AND**, **OR**, **NOT**, **NAND**, **XOR**, and beyond encouraging **critical thinking** and **problem-solving skills**.
 
-###
+By integrating education with immersive experiences, the game enhances users' understanding and retention of logical principles. It provides an alternative approach to traditional learning by promoting **active participation**, **creativity**, and **motivation**.
 
-<h5 align="left">This 3D logic gate puzzle dungeon game is designed as an interactive learning tool that teaches fundamental logic concepts through engaging gameplay. Players explore a dungeon environment where they solve puzzles using logic gates, encouraging critical thinking and problem-solving skills. By integrating education with immersive experiences, the game enhances users’ understanding and retention of logical principles. It provides an alternative approach to traditional learning by promoting active participation, creativity, and motivation.</h5>
+Every chamber presents a new challenge. Wire the gates. Complete the circuit. Unlock the door. But beware the deeper you go, the more complex the circuits become.
 
-###
+> *"In these halls, brute force is useless. Only logic will set you free."*
 
-<h2 align="left">Objective</h2>
+---
 
-###
 
-<p align="left">The general objective of this study is to develop and evaluate a 3D logic gate puzzle dungeon game designed as an interactive learning tool to effectively teach fundamental logic concepts. The game aims to enhance users' understanding and retention of logic principles by integrating them into engaging, puzzle-based gameplay. Through this immersive and experiential approach, the project seeks to provide an alternative educational strategy that promotes active learning, critical thinking, and increased motivation in mastering logic-related topics. Furthermore, this initiative aligns with Sustainable Development Goal (SDG) 4: Quality Education, which emphasizes inclusive and equitable quality education and the promotion of lifelong learning opportunities for all, by leveraging innovative digital tools to strengthen foundational computational and logical reasoning skills essential in the modern technological landscape.</p>
+| Feature | Description |
+|---|---|
+| 🧠 **Interactive Learning Tool** | Develop and evaluate a 3D logic gate puzzle dungeon game that effectively teaches fundamental logic concepts through immersive gameplay |
+| ⚡ **Enhanced Understanding & Retention** | Enhance users' understanding and retention of logic principles by integrating them into engaging, puzzle-based challenges |
+| 🏰 **Experiential Learning** | Provide an alternative educational strategy that promotes active learning, critical thinking, and increased motivation in mastering logic-related topics |
+| 🌍 **SDG 4: Quality Education** | Align with Sustainable Development Goal 4 by leveraging innovative digital tools to promote inclusive, equitable quality education and lifelong learning opportunities |
+| 💡 **Computational Reasoning** | Strengthen foundational computational and logical reasoning skills essential in the modern technological landscape |
 
-###
+---
+
