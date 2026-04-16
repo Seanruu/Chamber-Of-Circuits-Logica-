@@ -8,7 +8,7 @@ public class StartMenuController : MonoBehaviour
  
     public void OnStartClick()
     {
-        SceneManager.LoadScene("Main Game");
+        SceneManager.LoadScene("TutorialRoom");
     }
 
     public void OnExitClick()
